@@ -1,5 +1,5 @@
 ### To install redis in ubuntu using snap use:
-```mermaid
+```
 sudo snap install redis
 
 # to call redis-cli
